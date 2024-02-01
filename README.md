@@ -5,7 +5,7 @@
 - 📫 How to reach me: Email- natalia.munizblasco@gmail.com ; Linkedin- [Natalia Muñiz Blasco](https://www.linkedin.com/in/nataliamuñizblasco/). 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a musician; I play the piano since I was 5 years old.
-- [Portfolio Page](nataliamunizblasco.me/)
+- [Portfolio Page](https://nataliamunizblasco.me)
 
 <!---
 natalia-munizblasco/natalia-munizblasco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
